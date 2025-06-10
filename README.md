@@ -1,6 +1,6 @@
 # Automação Cypress - Central de Atendimento ao Cliente TAT
 
-[![main](https://github.com/wlsf82/cy-data-test/actions/workflows/ci.yml/badge.svg)](https://github.com/wlsf82/cy-data-test/actions)
+[![End-to-end tests](https://github.com/Rodrigofarnum/cypress-do-zero-a-nuvem/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Rodrigofarnum/cypress-do-zero-a-nuvem/actions/workflows/ci.yml)
 
 Projeto de automação da página Central de Atendimento ao Cliente TAT.
 
