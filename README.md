@@ -1,10 +1,14 @@
-# Automação Cypress - Central de Atendimento ao Cliente TAT
+# Automação Web com Cypress 
+## Central de Atendimento ao Cliente TAT
 
 [![End-to-end tests](https://github.com/Rodrigofarnum/cypress-do-zero-a-nuvem/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Rodrigofarnum/cypress-do-zero-a-nuvem/actions/workflows/ci.yml)
 
 
-Projeto de automação web da página Central de Atendimento ao Cliente TAT.
+Essa aplicação foi criada por @wlsf82 com intuito de colher informações do usuário. Seja um elogio, um feedback ou uma solicitação de ajuda, o site permite vários tipos de interações, podendo até anexar arquivos. 
 
+Foi solicitado a automação de testes end-to-end com integração contínua, a fim de garantir a estabilidade da aplicação a cada nova versão do código.
+
+Automação de testes utilizando Cypress, com integração contínua utilizando GitHub Actions, gerando evidências e métricas dos teste no Cypress Cloud. 
 
 ## Clone do projeto 
 
@@ -49,6 +53,15 @@ Rode `npm run cy:open` para rodar os testes no modo interativo.
 Rode `npm run cy:open:mobile` para rodar os testes simulando um dispositivo móvel.
 
 Rode `npm run cy:headless:mobile ` para rodar os testes simulando um dispositivo móvel no modo headless.
+
+## Conclusão
+
+O projeto já está em produção e você pode acompanhar o status do teste E2E no inicio desse README.
+
+Foram automatizados 26 testes em toda aplicação. 
+
+O teste completo dura em média 10 segundos.
+
 
 ## Ajude esse projeto
 
