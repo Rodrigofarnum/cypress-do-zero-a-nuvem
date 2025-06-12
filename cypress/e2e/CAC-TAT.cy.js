@@ -31,7 +31,6 @@ describe('Central de Atendimento ao cliente TAT', () => {
     cy.get('.success').should('not.be.visible')
   })
 
-
   it('3- exibe mensagem de erro ao submeter o formulário com um email com formatação inválida', () => {
     //Pausa o relógio, preenche os campos e clica em enviar
     cy.clock() 
@@ -193,7 +192,7 @@ describe('Central de Atendimento ao cliente TAT', () => {
     cy.contains('h1', 'Política de Privacidade').should('be.visible')
   })
   
-  //Repete o teste 3 vezes e evita teste flaky
+  //Repete o teste 3 vezes 
   Cypress._.times(3, () => {
   it('20- usando o Cypress._.times() para rodar o teste várias vezes', () => {
     // Para o relógio e cria a variavel com o valor do texto
