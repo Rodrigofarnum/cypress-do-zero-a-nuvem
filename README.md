@@ -10,7 +10,7 @@ Foi solicitado a automação de testes end-to-end com integração contínua, a 
 
 Automação de testes utilizando Cypress, com integração contínua utilizando GitHub Actions, gerando evidências e métricas dos teste no Cypress Cloud. 
 
-Documentação do Caso de Teste : https://github.com/Rodrigofarnum/cypress-do-zero-a-nuvem/Documentação/Caso-de-Teste-TAT.pdf
+Documentação do Caso de Teste : https://github.com/Rodrigofarnum/cypress-do-zero-a-nuvem/blob/main/Documenta%C3%A7%C3%A3o/Caso-de-Teste-TAT.pdf
 
 
 ## Clone do projeto 
