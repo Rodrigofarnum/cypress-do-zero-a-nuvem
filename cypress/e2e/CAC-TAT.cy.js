@@ -7,7 +7,7 @@ describe('Central de Atendimento ao cliente TAT', () => {
     cy.title().should('eq', 'Central de Atendimento ao Cliente TAT')
   })
 
-  it('2- preenche os campos obrigatórios', () => {
+  it('2- preenche os campos obrigatórios e envia', () => {
     //Criei uma variavel para armazenar um texto longo
     const textolongo = Cypress._.repeat('ABCDEFGHLR', 10)
     //Preenche os campos
@@ -108,7 +108,7 @@ describe('Central de Atendimento ao cliente TAT', () => {
     cy.get('#product').should('have.value', 'mentoria')
   })
   
-  it('11- seleciona um produto (Blog) por seu índice', () => {
+  it('11- seleciona um produto (Blog) por seu índice e seleciona um produto aleatório', () => {
     cy.get('#product').select(1)
     cy.get('#product').should('have.value', 'blog')
   })

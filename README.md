@@ -10,6 +10,9 @@ Foi solicitado a automação de testes end-to-end com integração contínua, a 
 
 Automação de testes utilizando Cypress, com integração contínua utilizando GitHub Actions, gerando evidências e métricas dos teste no Cypress Cloud. 
 
+Documentação do Caso de Teste : https://github.com/Rodrigofarnum/cypress-do-zero-a-nuvem/Documentação/Caso-de-Teste-TAT.pdf
+
+
 ## Clone do projeto 
 
 1. Abra o navegador e visite o GitHub do Walmyr https://github.com/wlsf82/cypress-do-zero-a-nuvem.
@@ -58,7 +61,7 @@ Rode `npm run cy:headless:mobile ` para rodar os testes simulando um dispositivo
 
 O projeto já está em produção e você pode acompanhar o status do teste E2E no inicio desse README.
 
-Foram automatizados 26 testes em toda aplicação. 
+Foram automatizados 26 cenários de teste em toda aplicação. 
 
 O teste completo dura em média 10 segundos.
 
