@@ -63,7 +63,7 @@ O projeto já está em produção e você pode acompanhar o status do teste E2E 
 
 Foram automatizados 26 cenários de teste em toda aplicação. 
 
-O teste completo dura em média 10 segundos.
+O teste completo dura em média 18 segundos.
 
 
 ## Ajude esse projeto
