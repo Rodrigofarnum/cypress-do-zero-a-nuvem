@@ -10,7 +10,7 @@ Foi solicitado a automação de testes end-to-end com integração contínua, a 
 
 Automação de testes utilizando Cypress, com integração contínua utilizando GitHub Actions, gerando evidências e métricas dos teste no Cypress Cloud. 
 
-Documentação do Caso de Teste : https://github.com/Rodrigofarnum/cypress-do-zero-a-nuvem/blob/main/Documenta%C3%A7%C3%A3o/Caso-de-Teste-TAT.pdf
+Documentação do Caso de Teste : https://github.com/Rodrigofarnum/cypress-do-zero-a-nuvem/blob/591a68337d642737c1397bf2dfb41f4ae142fc8c/Documenta%C3%A7%C3%A3o/Caso%20de%20Teste%20TAT.pdf
 
 
 ## Clone do projeto 
@@ -22,7 +22,7 @@ Documentação do Caso de Teste : https://github.com/Rodrigofarnum/cypress-do-ze
 
 3. Em seu fork, clique no botão **Code**, escolha a opção _clone via SSH_ e copie o link de clone do projeto.
 
-> Para obter detalhes sobre como criar e configurar uma chave SSH no GitHub, leia a [documentação oficial](https://github.com/Rodrigofarnum/cypress-do-zero-a-nuvem/blob/main/Documenta%C3%A7%C3%A3o/Caso%20de%20Teste%20TAT.pdf).
+> Para obter detalhes sobre como criar e configurar uma chave SSH no GitHub, leia a [documentação oficial](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/about-ssh).
 
 4. Em seu terminal de linha de comando (em uma pasta onde você armazena seus projetos de software), execute o comando `git clone [cole-o-link-copiado-aqui]`.
 
